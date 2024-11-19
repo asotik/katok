@@ -52,7 +52,7 @@ header .container {
 
 
 .slide1 {
-    background-image: url('/img/slide1/slide1fon.png');
+    background-image: url('img/slide1/slide1fon.png');
     padding-top: 200px;
     margin-top: -100px;
     height: 840px;
